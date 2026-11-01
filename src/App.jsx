@@ -149,7 +149,9 @@ const translations = {
       "Big Data Training — Codo a Codo Program (CABA)",
       "English Training — Codo a Codo (CABA)",
       "IT Work English Training — Agencia de Aprendizaje (CABA)",
-      "Participation in over 20 technology forums and events"
+      "Currently using Opencode",
+      "Participation in over 20 technology forums and events",
+    
     ],
     langList: [
       { name: "Spanish", level: "Native" },
