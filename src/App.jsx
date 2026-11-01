@@ -38,8 +38,8 @@ const translations = {
     },
     experiences: [
       {
-        company: "TCI Chile SpA",
-        role: "Programador / Desarrollador — Gerencia de Innovación y Nuevos Negocios",
+        company: "TCI-gecomp Chile",
+        role: "Programador / Desarrollador — Soporte IT (remoto)",
         period: "Marzo - Julio 2025",
         items: [
           "Desarrollo de aplicaciones empresariales con Power Apps para la gestión de inventario de herramientas, notebooks, cargadores y pasajes aéreos/terrestres del personal.",
@@ -57,7 +57,8 @@ const translations = {
           "Desarrollo de aplicaciones web y Mobile con React y React Native.",
           "Consumo e integración de APIs REST utilizando Postman para pruebas y validaciones.",
           "Implementación y modelado de bases de datos relacionales (MySQL) y NoSQL (MongoDB).",
-          "Control de versiones y trabajo colaborativo en GitHub."
+          "Control de versiones y trabajo colaborativo en GitHub.",
+          "Trabajos de desarrollo con el uso de Agentes de IA (Microsoft Copilot, ChatGPT, Opencode) para optimización de código y generación de contenido.",
         ]
       }
     ],
