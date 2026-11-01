@@ -81,6 +81,7 @@ const translations = {
       "Capacitación Big Data — Programa Codo a Codo (CABA)",
       "Capacitación Inglés — Codo a Codo (CABA)",
       "Capacitación Inglés Trabajo IT — Agencia de Aprendizaje (CABA)",
+      "Actualmente utilizo Opencode",
       "Participación en más de 20 jornadas y foros tecnológicos"
     ],
     langList: [
