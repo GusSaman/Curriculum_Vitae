@@ -38,7 +38,7 @@ const translations = {
     },
     experiences: [
       {
-        company: "TCI-gecomp Chile",
+        company: "TCI GECOMP SPA - Chile",
         role: "Programador / Desarrollador — Soporte IT (remoto)",
         period: "Marzo - Julio 2025",
         items: [
